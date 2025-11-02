@@ -1,4 +1,4 @@
-# RSI Trading Signals (Beginner Quant Project)
+# RSI Trading Signals
 Computes RSI(14) on AAPL, generates BUY/SELL signals.
 - Libraries: yfinance, Pandas, NumPy, Matplotlib
 - Output: 21 BUY / 52 SELL over 1y
